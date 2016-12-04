@@ -1,2 +1,0 @@
-#Readme
-This is the GitHub Local Repo, as I reconstruced the repo for some stupid errors.
